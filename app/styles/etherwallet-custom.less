@@ -779,3 +779,19 @@ header.ETSC {
     }
   }
 }
+
+.spinner {
+  animation: spin 2s linear infinite;
+  height: 37px;
+}
+
+.spinner-container {
+  display: inherit !important;
+  padding: 7.5px 20px !important;
+  text-align: center;
+}
+
+@keyframes spin {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+}
