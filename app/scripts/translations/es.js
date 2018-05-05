@@ -234,10 +234,10 @@ tx_FoundOnChain_3           : '**If you do not see any errors, your transaction 
 /* Gen Wallet Updates */
 GEN_Help_1                  : 'Usa tu',
 GEN_Help_2                  : 'para acceder a tu cuenta.',
-GEN_Help_3                  : 'Tu dispositivo * is * tu cartera.',
+GEN_Help_3                  : 'Tu dispositivo * es * tu cartera.',
 GEN_Help_4                  : 'Guías y FAQ',
 GEN_Help_5                  : 'Cómo crear una cartera',
-GEN_Help_6                  : 'Empezando',
+GEN_Help_6                  : 'Comenzar',
 GEN_Help_7                  : 'Manténgalo seguro · Haga una copia de seguridad · No lo comparta con nadie · No lo pierda · No se puede recuperar si lo pierde.',
 GEN_Help_8                  : 'No descarga un archivo?',
 GEN_Help_9                  : 'Intenta utilizando Google Chrome ',
@@ -639,7 +639,7 @@ Translator_Desc             : 'Gracias a nuestros traductores ',
 TranslatorName_1            : 'Ignacio Fernández del Álamo  · ',
 TranslatorAddr_1            : '',
 /* Translator 1             : Insert Comments Here */
-TranslatorName_2            : 'Carlos Lizarraga Rodrigo ',
+TranslatorName_2            : 'Carlos Lizarraga Rodrigo  · ',
 TranslatorAddr_2            : '',
 /* Translator 2             : Insert Comments Here */
 TranslatorName_3            : 'Mario Campo Saurat ',
